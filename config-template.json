@@ -1,6 +1,6 @@
 {
   "model": {
-    "type" : "chatgpt",
+    "type" : "bard",
     "openai": {
       "api_key": "YOUR API KEY",
       "api_base": "",
@@ -18,7 +18,7 @@
       "cookie": "YOUR COOKIE"
     },
     "bard": {
-      "cookie": "YOUR COOKIE"
+      "cookie": "Yggyjg3VFvgJSm_C7tps5qQWyc9W1a1OH7C0tnFzVQ4pS8qvwGxtDBIDrWpVxtk0ddCJcQ"
     },
     "bing":{
       "jailbreak":true,
