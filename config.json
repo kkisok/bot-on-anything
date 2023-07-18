@@ -1,6 +1,6 @@
 {
   "model": {
-    "type" : "chatgpt",
+    "type" : "bard",
     "openai": {
       "api_key": "YOUR API KEY",
       "api_base": "",
